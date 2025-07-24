@@ -20,5 +20,4 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/h3infra/orderart-monitor
+
