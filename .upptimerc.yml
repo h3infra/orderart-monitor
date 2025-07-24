@@ -1,28 +1,23 @@
 owner: h3infra
-repo: upptime-monitor
+repo: orderart-monitor
 
 sites:
-
-  
-  - name: FiberDigital
-    url: https://www.fiber.com.au/
-  - name: Amrapali Indian Cuisine
-    url: https://www.amrapali.com.au/
   - name: Orderart
     url: https://www.orderart.com.au/
-  - name: habitat3
-    url: https://www.habitat3.com.au/
+  - name: Amrapali Indian Cuisine
+    url: https://www.amrapali.com.au/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  baseUrl: /upptime-monitor
+  baseUrl: /
+  cname: null
+  name: Orderart Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Orderart Status Page**"
+  introMessage: Monitoring uptime of [Orderart](https://www.orderart.com.au) in real time.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/h3infra/upptime-monitor
+      href: https://github.com/h3infra/orderart-monitor
