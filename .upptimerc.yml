@@ -2,6 +2,8 @@ owner: h3infra
 repo: orderart-monitor
 
 sites:
+  - name: Orderart
+    url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
     url: https://www.fathimasindiankitchen.com.au
   - name: Shanika Berwick
@@ -204,7 +206,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Orderart Status
   introTitle: "**Orderart Client Status Page**"
-  introMessage: Monitoring uptime for all client sites in real time.
+  introMessage: Monitoring uptime for orderart websites in real time.
   navbar:
     - title: Status
       href: /
