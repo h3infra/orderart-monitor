@@ -1,6 +1,6 @@
 # [📈 Live Status](https://h3infra.github.io/h3.upptime-monitor): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [h3infra](https://h3infra.github.io/h3.upptime-monitor), powered by [Upptime](https://github.com/upptime/upptime).
+
 
 
 
