@@ -209,4 +209,4 @@ status-website:
   introMessage: Monitoring uptime for orderart websites in real time.
   navbar:
     - title: Status
-      href: /
+      href: https://h3infra.github.io/orderart-monitor
