@@ -1,9 +1,3 @@
-# [📈 Live Status](https://h3infra.github.io/h3.upptime-monitor): <!--live status--> **🟧 Partial outage**
-
-
-
-
-
 [Issues as incident reports](https://github.com/h3infra/orderart-monitor/issues)
 
 <!--start: status pages-->
