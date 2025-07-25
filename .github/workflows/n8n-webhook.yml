@@ -1,0 +1,18 @@
+name: Notify n8n on Uptime Check Failure
+
+on:
+  workflow_run:
+    workflows: ["Update status"]  # This matches the name in update.yml
+    types:
+      - completed
+
+jobs:
+  send-alert-if-failed:
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send webhook to n8n
+        run: |
+          curl -X POST http://3.105.188.182:5678/webhook/upptime-alert \
+            -H "Content-Type: application/json" \
+            -d '{"site": "critical-group", "status": "down"}'
