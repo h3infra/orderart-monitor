@@ -10,7 +10,7 @@ sites:
   - name: Test Broken Site3
     url: https://thissitedoesnotexist3.koj.co
   - name: Test Broken Site4
-    url: https://thissitedoesnotexist4.koj.co
+    url: https://www.google.com/
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
