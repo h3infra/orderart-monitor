@@ -5,6 +5,12 @@ sites:
 
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site2
+    url: https://thissitedoesnotexist2.koj.co
+  - name: Test Broken Site3
+    url: https://thissitedoesnotexist3.koj.co
+  - name: Test Broken Site4
+    url: https://thissitedoesnotexist4.koj.co
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
