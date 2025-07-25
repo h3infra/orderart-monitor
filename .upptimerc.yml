@@ -3,6 +3,8 @@ repo: orderart-monitor
 
 sites:
 
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
