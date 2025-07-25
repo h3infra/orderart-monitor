@@ -2,6 +2,18 @@ owner: h3infra
 repo: orderart-monitor
 
 sites:
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: Test1 Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: Test2 Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: Test3 Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: Test4 Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: Test4 Broken Site
+    url: https://thissitedoesnotexist.koj.co
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
