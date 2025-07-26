@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 434,
+      "2025-07-26": 453,
       "2025-07-25": 1118
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 434,
+      "2025-07-26": 453,
       "2025-07-25": 896
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 434,
+      "2025-07-26": 453,
       "2025-07-25": 896
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2025-07-26": 434,
+      "2025-07-26": 453,
       "2025-07-25": 896
     }
   },
@@ -88,17 +88,17 @@
     "url": "https://www.orderart.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.orderart.com.au.ico",
     "slug": "orderart",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 585,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 583,
+    "timeDay": 646,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
