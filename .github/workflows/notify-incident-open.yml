@@ -1,35 +1,17 @@
 name: Notify on Incident Open
 
 on:
-  push:
-    paths:
-      - 'history/**'
+  issues:
+    types:
+      - opened
 
 jobs:
-  send-webhook:
+  notify:
+    if: contains(join(github.event.issue.labels.*.name, ','), 'incident')
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v3
-
-      - name: Find newly opened incidents
-        id: find_incidents
+      - name: Send webhook
         run: |
-          new_incidents=""
-          for file in $(git diff --name-only HEAD~1 HEAD | grep '^history/'); do
-            if grep -q "down:" "$file" && ! grep -q "up:" "$file"; then
-              site_name=$(basename "$file" .yml)
-              new_incidents+="$site_name "
-            fi
-          done
-          echo "new_sites=$new_incidents" >> $GITHUB_OUTPUT
-
-      - name: Send webhook to n8n
-        if: steps.find_incidents.outputs.new_sites != ''
-        run: |
-          for site in ${{ steps.find_incidents.outputs.new_sites }}; do
-            echo "Sending alert for: $site"
-            curl -X POST http://3.105.188.182:5678/webhook/upptime-alert \
-              -H "Content-Type: application/json" \
-              -d "{\"site\": \"$site\"}"
-          done
+          curl -X POST http://3.105.188.182:5678/webhook/upptime-alert \
+          -H "Content-Type: application/json" \
+          -d '{"site": "${{ github.event.issue.title }}"}'
