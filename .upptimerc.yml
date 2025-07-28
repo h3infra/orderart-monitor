@@ -6,7 +6,7 @@ commitStatus: true
 sites:
 
   - name: Test Broken Site - Incident auto-close test
-    url: https://thissitedoesnotexist.koj.co
+    url: https://www.google.com/
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
