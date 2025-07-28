@@ -1,6 +1,8 @@
 owner: h3infra
 repo: orderart-monitor
 
+commitStatus: true
+
 sites:
 
   - name: Test Broken Site
