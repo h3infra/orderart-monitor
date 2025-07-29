@@ -2,6 +2,7 @@ owner: h3infra
 repo: orderart-monitor
 
 commitStatus: true
+commitAll: true
 
 schedule: "*/5 * * * *"
 
