@@ -5,8 +5,16 @@ commitStatus: true
 
 sites:
 
-  - name: Test Broken Site - Incident auto-close test
-    url: https://www.google.com/
+  - name: Test Broken Site 1 - Incident auto-close test
+    url: http://122.199.23.156:8081
+  - name: Test Broken Site 2 - Incident auto-close test
+    url: http://122.199.23.156:8082
+  - name: Test Broken Site 3 - Incident auto-close test
+    url: http://122.199.23.156:8083
+  - name: Test Broken Site 4 - Incident auto-close test
+    url: http://122.199.23.156:8084
+  - name: Test Broken Site 5 - Incident auto-close test
+    url: hhttp://122.199.23.156:8085
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
