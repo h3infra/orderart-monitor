@@ -3,6 +3,8 @@ repo: orderart-monitor
 
 commitStatus: true
 
+schedule: "*/5 * * * *"
+
 sites:
 
   - name: Test Broken Site 1 - Incident auto-close test
