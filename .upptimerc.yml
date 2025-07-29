@@ -218,6 +218,7 @@ sites:
     url: https://www.thebhojan.ca/
 
 status-website:
+  showIncidentEmojis: false
   baseUrl: /orderart-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Orderart Status
