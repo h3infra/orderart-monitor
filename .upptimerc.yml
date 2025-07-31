@@ -8,7 +8,12 @@ schedule: "*/5 * * * *"
 
 sites:
 
-
+  - name: OrderArt POS
+    url: https://pos.orderart.com.au/
+  - name: OrderArt Admin
+    url: https://admin.orderart.com.au/
+  - name: OrderArt Restroadmin
+    url: https://fran-trish.orderart.io/
   - name: Orderart
     url: https://www.orderart.com.au/
   - name: Fathimas Indian Kitchen
