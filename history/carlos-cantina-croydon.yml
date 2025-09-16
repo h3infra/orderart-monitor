@@ -1,7 +1,7 @@
 url: https://croydon.carloscantina.com.au/
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2025-09-15T23:13:33.430Z
+status: down
+code: 500
+responseTime: 645
+lastUpdated: 2025-09-16T04:56:09.342Z
 startTime: 2025-07-24T04:57:43.301Z
 generator: Upptime <https://github.com/upptime/upptime>
