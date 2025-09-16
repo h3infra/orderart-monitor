@@ -1,7 +1,7 @@
 url: https://www.desibites.ca/
-status: up
-code: 200
-responseTime: 507
-lastUpdated: 2025-09-15T23:13:52.900Z
+status: down
+code: 500
+responseTime: 619
+lastUpdated: 2025-09-16T04:57:10.403Z
 startTime: 2025-07-24T04:58:07.658Z
 generator: Upptime <https://github.com/upptime/upptime>
