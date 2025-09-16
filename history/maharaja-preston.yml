@@ -1,7 +1,7 @@
 url: https://preston.maharajaonline.com.au/
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2025-09-15T23:13:45.812Z
+status: down
+code: 500
+responseTime: 567
+lastUpdated: 2025-09-16T04:56:51.228Z
 startTime: 2025-07-24T04:57:58.253Z
 generator: Upptime <https://github.com/upptime/upptime>
