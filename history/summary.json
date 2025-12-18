@@ -823,7 +823,7 @@
     "time": 883,
     "timeDay": 1211,
     "timeWeek": 949,
-    "timeMonth": 1127,
+    "timeMonth": 1137,
     "timeYear": 883,
     "dailyMinutesDown": {}
   },
@@ -1390,7 +1390,7 @@
     "url": "https://www.caseykebab.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.caseykebab.com.au.ico",
     "slug": "casey-kebab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
