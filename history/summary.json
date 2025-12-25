@@ -570,7 +570,7 @@
     "uptimeYear": "100.00%",
     "time": 729,
     "timeDay": 727,
-    "timeWeek": 764,
+    "timeWeek": 779,
     "timeMonth": 820,
     "timeYear": 729,
     "dailyMinutesDown": {}
@@ -588,7 +588,7 @@
     "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 657,
-    "timeWeek": 1869,
+    "timeWeek": 763,
     "timeMonth": 1074,
     "timeYear": 777,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 701,
     "timeDay": 493,
-    "timeWeek": 1452,
+    "timeWeek": 1530,
     "timeMonth": 881,
     "timeYear": 701,
     "dailyMinutesDown": {}
@@ -624,7 +624,7 @@
     "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 587,
-    "timeWeek": 818,
+    "timeWeek": 791,
     "timeMonth": 809,
     "timeYear": 705,
     "dailyMinutesDown": {}
@@ -814,17 +814,17 @@
     "url": "https://www.ustaadgscottroad.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ustaadgscottroad.ca.ico",
     "slug": "ustaad-g-scott-road",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 921,
-    "timeWeek": 1012,
-    "timeMonth": 1017,
-    "timeYear": 895,
+    "time": 894,
+    "timeDay": 907,
+    "timeWeek": 993,
+    "timeMonth": 1014,
+    "timeYear": 894,
     "dailyMinutesDown": {}
   },
   {
@@ -1398,7 +1398,7 @@
     "uptimeYear": "100.00%",
     "time": 816,
     "timeDay": 505,
-    "timeWeek": 2658,
+    "timeWeek": 1821,
     "timeMonth": 1397,
     "timeYear": 816,
     "dailyMinutesDown": {}
