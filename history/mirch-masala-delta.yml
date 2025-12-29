@@ -1,7 +1,7 @@
 url: https://delta.mirchmasala.ca/
-status: up
-code: 200
-responseTime: 737
-lastUpdated: 2025-12-28T23:16:56.790Z
+status: down
+code: 500
+responseTime: 2726
+lastUpdated: 2025-12-29T17:56:41.577Z
 startTime: 2025-07-24T04:57:35.793Z
 generator: Upptime <https://github.com/upptime/upptime>
