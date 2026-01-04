@@ -814,7 +814,7 @@
     "url": "https://www.ustaadgscottroad.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ustaadgscottroad.ca.ico",
     "slug": "ustaad-g-scott-road",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -822,7 +822,7 @@
     "uptimeYear": "100.00%",
     "time": 914,
     "timeDay": 1014,
-    "timeWeek": 1044,
+    "timeWeek": 1043,
     "timeMonth": 991,
     "timeYear": 914,
     "dailyMinutesDown": {}
