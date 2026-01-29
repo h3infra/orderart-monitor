@@ -85,7 +85,7 @@
     "time": 993,
     "timeDay": 1552,
     "timeWeek": 1045,
-    "timeMonth": 1069,
+    "timeMonth": 1071,
     "timeYear": 993,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 2719,
     "timeDay": 2495,
     "timeWeek": 2443,
-    "timeMonth": 2903,
+    "timeMonth": 2972,
     "timeYear": 2719,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 821,
     "timeDay": 1038,
     "timeWeek": 766,
-    "timeMonth": 826,
+    "timeMonth": 824,
     "timeYear": 821,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1125,
     "timeDay": 1812,
     "timeWeek": 1052,
-    "timeMonth": 1143,
+    "timeMonth": 1163,
     "timeYear": 1125,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 880,
     "timeDay": 837,
     "timeWeek": 694,
-    "timeMonth": 900,
+    "timeMonth": 914,
     "timeYear": 880,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 777,
     "timeDay": 745,
     "timeWeek": 648,
-    "timeMonth": 683,
+    "timeMonth": 681,
     "timeYear": 777,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 746,
     "timeDay": 725,
     "timeWeek": 634,
-    "timeMonth": 725,
+    "timeMonth": 724,
     "timeYear": 746,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 724,
     "timeDay": 659,
     "timeWeek": 586,
-    "timeMonth": 636,
+    "timeMonth": 639,
     "timeYear": 724,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 959,
     "timeDay": 1053,
     "timeWeek": 821,
-    "timeMonth": 880,
+    "timeMonth": 873,
     "timeYear": 959,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 732,
     "timeDay": 893,
     "timeWeek": 625,
-    "timeMonth": 700,
+    "timeMonth": 633,
     "timeYear": 732,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 865,
     "timeDay": 684,
     "timeWeek": 728,
-    "timeMonth": 723,
+    "timeMonth": 726,
     "timeYear": 865,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 847,
     "timeDay": 2842,
     "timeWeek": 1048,
-    "timeMonth": 803,
+    "timeMonth": 792,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 814,
     "timeDay": 607,
     "timeWeek": 910,
-    "timeMonth": 787,
+    "timeMonth": 800,
     "timeYear": 814,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 792,
     "timeDay": 993,
     "timeWeek": 676,
-    "timeMonth": 772,
+    "timeMonth": 777,
     "timeYear": 792,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 803,
     "timeDay": 832,
     "timeWeek": 667,
-    "timeMonth": 723,
+    "timeMonth": 719,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 801,
     "timeDay": 1024,
     "timeWeek": 669,
-    "timeMonth": 684,
+    "timeMonth": 693,
     "timeYear": 801,
     "dailyMinutesDown": {}
   },
@@ -391,7 +391,7 @@
     "time": 729,
     "timeDay": 872,
     "timeWeek": 651,
-    "timeMonth": 662,
+    "timeMonth": 671,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 861,
     "timeDay": 2166,
     "timeWeek": 2140,
-    "timeMonth": 1503,
+    "timeMonth": 1556,
     "timeYear": 861,
     "dailyMinutesDown": {}
   },
@@ -427,7 +427,7 @@
     "time": 711,
     "timeDay": 848,
     "timeWeek": 660,
-    "timeMonth": 687,
+    "timeMonth": 696,
     "timeYear": 711,
     "dailyMinutesDown": {}
   },
@@ -814,17 +814,17 @@
     "url": "https://www.ustaadgscottroad.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ustaadgscottroad.ca.ico",
     "slug": "ustaad-g-scott-road",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 853,
-    "timeWeek": 935,
-    "timeMonth": 1021,
-    "timeYear": 944,
+    "time": 943,
+    "timeDay": 816,
+    "timeWeek": 925,
+    "timeMonth": 1017,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   },
   {
