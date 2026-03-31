@@ -130,7 +130,7 @@
     "url": "https://pakenham.shanikas.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/pakenham.shanikas.com.au.ico",
     "slug": "shanika-pakenham",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -426,7 +426,7 @@
     "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 658,
-    "timeWeek": 605,
+    "timeWeek": 622,
     "timeMonth": 614,
     "timeYear": 696,
     "dailyMinutesDown": {}
