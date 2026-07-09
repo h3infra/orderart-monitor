@@ -49,7 +49,7 @@
     "time": 286,
     "timeDay": 402,
     "timeWeek": 747,
-    "timeMonth": 328,
+    "timeMonth": 336,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -949,7 +949,7 @@
     "time": 701,
     "timeDay": 979,
     "timeWeek": 689,
-    "timeMonth": 592,
+    "timeMonth": 600,
     "timeYear": 701,
     "dailyMinutesDown": {}
   },
@@ -1291,7 +1291,7 @@
     "time": 699,
     "timeDay": 724,
     "timeWeek": 745,
-    "timeMonth": 605,
+    "timeMonth": 612,
     "timeYear": 699,
     "dailyMinutesDown": {}
   },
@@ -1381,7 +1381,7 @@
     "time": 712,
     "timeDay": 783,
     "timeWeek": 747,
-    "timeMonth": 664,
+    "timeMonth": 670,
     "timeYear": 712,
     "dailyMinutesDown": {}
   },
@@ -1561,7 +1561,7 @@
     "time": 656,
     "timeDay": 609,
     "timeWeek": 764,
-    "timeMonth": 561,
+    "timeMonth": 567,
     "timeYear": 656,
     "dailyMinutesDown": {}
   },
@@ -1660,17 +1660,17 @@
     "url": "https://jaihorestauranthopperscrossing.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/jaihorestauranthopperscrossing.com.au.ico",
     "slug": "jai-ho-hoppers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 1725,
-    "timeWeek": 1728,
-    "timeMonth": 1399,
-    "timeYear": 660,
+    "time": 662,
+    "timeDay": 1768,
+    "timeWeek": 1735,
+    "timeMonth": 1407,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
