@@ -454,7 +454,7 @@
     "url": "https://www.whistlingkettle.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.whistlingkettle.com.au.ico",
     "slug": "whistling-kettle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -949,7 +949,7 @@
     "time": 700,
     "timeDay": 825,
     "timeWeek": 714,
-    "timeMonth": 615,
+    "timeMonth": 642,
     "timeYear": 700,
     "dailyMinutesDown": {}
   },
@@ -1291,7 +1291,7 @@
     "time": 699,
     "timeDay": 1070,
     "timeWeek": 775,
-    "timeMonth": 642,
+    "timeMonth": 654,
     "timeYear": 699,
     "dailyMinutesDown": {}
   },
@@ -1381,7 +1381,7 @@
     "time": 712,
     "timeDay": 590,
     "timeWeek": 719,
-    "timeMonth": 621,
+    "timeMonth": 631,
     "timeYear": 712,
     "dailyMinutesDown": {}
   },
@@ -1561,7 +1561,7 @@
     "time": 655,
     "timeDay": 517,
     "timeWeek": 732,
-    "timeMonth": 607,
+    "timeMonth": 621,
     "timeYear": 655,
     "dailyMinutesDown": {}
   },
@@ -1687,7 +1687,7 @@
     "time": 703,
     "timeDay": 568,
     "timeWeek": 647,
-    "timeMonth": 595,
+    "timeMonth": 603,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
