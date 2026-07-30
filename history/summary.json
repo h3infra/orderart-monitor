@@ -68,7 +68,7 @@
     "timeDay": 462,
     "timeWeek": 610,
     "timeMonth": 632,
-    "timeYear": 653,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 519,
     "timeWeek": 714,
     "timeMonth": 805,
-    "timeYear": 975,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 2121,
     "timeWeek": 2564,
     "timeMonth": 2503,
-    "timeYear": 2632,
+    "timeYear": 2635,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 871,
     "timeWeek": 844,
     "timeMonth": 763,
-    "timeYear": 799,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 498,
     "timeWeek": 710,
     "timeMonth": 728,
-    "timeYear": 707,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   },
   {
@@ -338,7 +338,7 @@
     "timeDay": 826,
     "timeWeek": 789,
     "timeMonth": 741,
-    "timeYear": 777,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   },
   {
@@ -356,7 +356,7 @@
     "timeDay": 695,
     "timeWeek": 724,
     "timeMonth": 728,
-    "timeYear": 780,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -374,7 +374,7 @@
     "timeDay": 600,
     "timeWeek": 688,
     "timeMonth": 848,
-    "timeYear": 774,
+    "timeYear": 775,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 2173,
     "timeWeek": 2190,
     "timeMonth": 2128,
-    "timeYear": 1453,
+    "timeYear": 1455,
     "dailyMinutesDown": {}
   },
   {
@@ -464,7 +464,7 @@
     "timeDay": 413,
     "timeWeek": 623,
     "timeMonth": 689,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   },
   {
@@ -662,7 +662,7 @@
     "timeDay": 760,
     "timeWeek": 802,
     "timeMonth": 872,
-    "timeYear": 959,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   },
   {
@@ -716,7 +716,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 614,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -734,7 +734,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 582,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -752,7 +752,7 @@
     "timeDay": 507,
     "timeWeek": 641,
     "timeMonth": 765,
-    "timeYear": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -770,7 +770,7 @@
     "timeDay": 438,
     "timeWeek": 638,
     "timeMonth": 652,
-    "timeYear": 636,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -788,7 +788,7 @@
     "timeDay": 434,
     "timeWeek": 632,
     "timeMonth": 668,
-    "timeYear": 669,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -806,7 +806,7 @@
     "timeDay": 422,
     "timeWeek": 606,
     "timeMonth": 659,
-    "timeYear": 629,
+    "timeYear": 630,
     "dailyMinutesDown": {}
   },
   {
@@ -824,7 +824,7 @@
     "timeDay": 1411,
     "timeWeek": 1620,
     "timeMonth": 1720,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {}
   },
   {
@@ -842,7 +842,7 @@
     "timeDay": 424,
     "timeWeek": 611,
     "timeMonth": 768,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   },
   {
@@ -878,7 +878,7 @@
     "timeDay": 492,
     "timeWeek": 668,
     "timeMonth": 679,
-    "timeYear": 687,
+    "timeYear": 688,
     "dailyMinutesDown": {}
   },
   {
@@ -896,7 +896,7 @@
     "timeDay": 411,
     "timeWeek": 613,
     "timeMonth": 629,
-    "timeYear": 649,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -932,7 +932,7 @@
     "timeDay": 407,
     "timeWeek": 573,
     "timeMonth": 625,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -940,16 +940,16 @@
     "url": "https://www.amrapali.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amrapali.com.au.ico",
     "slug": "amrapali",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 599,
-    "timeWeek": 489,
-    "timeMonth": 577,
+    "time": 683,
+    "timeDay": 502,
+    "timeWeek": 480,
+    "timeMonth": 569,
     "timeYear": 684,
     "dailyMinutesDown": {}
   },
@@ -968,7 +968,7 @@
     "timeDay": 597,
     "timeWeek": 1139,
     "timeMonth": 1031,
-    "timeYear": 1158,
+    "timeYear": 1156,
     "dailyMinutesDown": {}
   },
   {
@@ -1022,7 +1022,7 @@
     "timeDay": 394,
     "timeWeek": 643,
     "timeMonth": 638,
-    "timeYear": 679,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
@@ -1040,7 +1040,7 @@
     "timeDay": 488,
     "timeWeek": 663,
     "timeMonth": 653,
-    "timeYear": 680,
+    "timeYear": 681,
     "dailyMinutesDown": {}
   },
   {
@@ -1058,7 +1058,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 713,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   },
   {
@@ -1112,7 +1112,7 @@
     "timeDay": 579,
     "timeWeek": 689,
     "timeMonth": 695,
-    "timeYear": 691,
+    "timeYear": 692,
     "dailyMinutesDown": {}
   },
   {
@@ -1130,7 +1130,7 @@
     "timeDay": 734,
     "timeWeek": 684,
     "timeMonth": 722,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "timeDay": 609,
     "timeWeek": 876,
     "timeMonth": 742,
-    "timeYear": 699,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -1220,7 +1220,7 @@
     "timeDay": 479,
     "timeWeek": 671,
     "timeMonth": 855,
-    "timeYear": 797,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   },
   {
@@ -1238,7 +1238,7 @@
     "timeDay": 435,
     "timeWeek": 718,
     "timeMonth": 697,
-    "timeYear": 794,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -1256,7 +1256,7 @@
     "timeDay": 425,
     "timeWeek": 649,
     "timeMonth": 654,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -1274,7 +1274,7 @@
     "timeDay": 536,
     "timeWeek": 702,
     "timeMonth": 693,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -1282,17 +1282,17 @@
     "url": "https://www.111pizzaplace.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.111pizzaplace.com.au.ico",
     "slug": "111-pizza-place",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 646,
-    "timeWeek": 609,
-    "timeMonth": 650,
-    "timeYear": 696,
+    "time": 691,
+    "timeDay": 532,
+    "timeWeek": 598,
+    "timeMonth": 643,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -1372,17 +1372,17 @@
     "url": "https://www.afghanbbq.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.afghanbbq.com.au.ico",
     "slug": "afghan-bbq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 517,
-    "timeWeek": 755,
-    "timeMonth": 741,
-    "timeYear": 719,
+    "time": 714,
+    "timeDay": 379,
+    "timeWeek": 739,
+    "timeMonth": 731,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
@@ -1418,7 +1418,7 @@
     "timeDay": 573,
     "timeWeek": 784,
     "timeMonth": 687,
-    "timeYear": 697,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -1472,7 +1472,7 @@
     "timeDay": 936,
     "timeWeek": 773,
     "timeMonth": 730,
-    "timeYear": 805,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -1508,7 +1508,7 @@
     "timeDay": 582,
     "timeWeek": 645,
     "timeMonth": 643,
-    "timeYear": 709,
+    "timeYear": 710,
     "dailyMinutesDown": {}
   },
   {
@@ -1544,7 +1544,7 @@
     "timeDay": 1271,
     "timeWeek": 877,
     "timeMonth": 768,
-    "timeYear": 802,
+    "timeYear": 803,
     "dailyMinutesDown": {}
   },
   {
@@ -1559,7 +1559,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 473,
+    "timeDay": 404,
     "timeWeek": 505,
     "timeMonth": 551,
     "timeYear": 637,
@@ -1616,7 +1616,7 @@
     "timeDay": 578,
     "timeWeek": 708,
     "timeMonth": 664,
-    "timeYear": 678,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "timeDay": 405,
     "timeWeek": 737,
     "timeMonth": 652,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -1652,7 +1652,7 @@
     "timeDay": 396,
     "timeWeek": 670,
     "timeMonth": 645,
-    "timeYear": 656,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -1669,8 +1669,8 @@
     "time": 794,
     "timeDay": 1663,
     "timeWeek": 1411,
-    "timeMonth": 1701,
-    "timeYear": 790,
+    "timeMonth": 1704,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   },
   {
@@ -1678,17 +1678,17 @@
     "url": "https://www.thehighwayeats.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehighwayeats.com.au.ico",
     "slug": "highway-eats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 542,
-    "timeWeek": 691,
-    "timeMonth": 682,
-    "timeYear": 703,
+    "time": 700,
+    "timeDay": 463,
+    "timeWeek": 677,
+    "timeMonth": 673,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -1724,7 +1724,7 @@
     "timeDay": 458,
     "timeWeek": 1400,
     "timeMonth": 823,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {}
   },
   {
@@ -1760,7 +1760,7 @@
     "timeDay": 790,
     "timeWeek": 808,
     "timeMonth": 744,
-    "timeYear": 822,
+    "timeYear": 823,
     "dailyMinutesDown": {}
   },
   {
@@ -1796,7 +1796,7 @@
     "timeDay": 714,
     "timeWeek": 852,
     "timeMonth": 741,
-    "timeYear": 805,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
