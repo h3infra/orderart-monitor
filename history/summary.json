@@ -14,7 +14,7 @@
     "timeDay": 462,
     "timeWeek": 387,
     "timeMonth": 421,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 410,
     "timeWeek": 256,
     "timeMonth": 232,
-    "timeYear": 258,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 964,
     "timeWeek": 728,
     "timeMonth": 810,
-    "timeYear": 976,
+    "timeYear": 977,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 2722,
     "timeWeek": 2523,
     "timeMonth": 2510,
-    "timeYear": 2636,
+    "timeYear": 2635,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 1355,
     "timeWeek": 1314,
     "timeMonth": 1285,
-    "timeYear": 1228,
+    "timeYear": 1229,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 823,
     "timeWeek": 736,
     "timeMonth": 731,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 785,
     "timeWeek": 689,
     "timeMonth": 659,
-    "timeYear": 706,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -374,7 +374,7 @@
     "timeDay": 930,
     "timeWeek": 720,
     "timeMonth": 851,
-    "timeYear": 776,
+    "timeYear": 775,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 1604,
     "timeWeek": 2115,
     "timeMonth": 2112,
-    "timeYear": 1458,
+    "timeYear": 1460,
     "dailyMinutesDown": {}
   },
   {
@@ -446,7 +446,7 @@
     "timeDay": 802,
     "timeWeek": 695,
     "timeMonth": 681,
-    "timeYear": 687,
+    "timeYear": 688,
     "dailyMinutesDown": {}
   },
   {
@@ -500,7 +500,7 @@
     "timeDay": 940,
     "timeWeek": 815,
     "timeMonth": 769,
-    "timeYear": 799,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -518,7 +518,7 @@
     "timeDay": 793,
     "timeWeek": 666,
     "timeMonth": 800,
-    "timeYear": 693,
+    "timeYear": 694,
     "dailyMinutesDown": {}
   },
   {
@@ -590,7 +590,7 @@
     "timeDay": 940,
     "timeWeek": 658,
     "timeMonth": 705,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -716,7 +716,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 636,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -734,7 +734,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 602,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -806,7 +806,7 @@
     "timeDay": 865,
     "timeWeek": 620,
     "timeMonth": 665,
-    "timeYear": 631,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -824,7 +824,7 @@
     "timeDay": 1664,
     "timeWeek": 1632,
     "timeMonth": 1719,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -842,7 +842,7 @@
     "timeDay": 777,
     "timeWeek": 634,
     "timeMonth": 768,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -896,7 +896,7 @@
     "timeDay": 1081,
     "timeWeek": 675,
     "timeMonth": 643,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -932,7 +932,7 @@
     "timeDay": 1097,
     "timeWeek": 629,
     "timeMonth": 641,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
@@ -940,17 +940,17 @@
     "url": "https://www.amrapali.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amrapali.com.au.ico",
     "slug": "amrapali",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 608,
-    "timeWeek": 497,
-    "timeMonth": 579,
-    "timeYear": 684,
+    "time": 682,
+    "timeDay": 527,
+    "timeWeek": 493,
+    "timeMonth": 572,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -1058,7 +1058,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   },
   {
@@ -1220,7 +1220,7 @@
     "timeDay": 898,
     "timeWeek": 711,
     "timeMonth": 856,
-    "timeYear": 799,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   },
   {
@@ -1238,7 +1238,7 @@
     "timeDay": 949,
     "timeWeek": 725,
     "timeMonth": 705,
-    "timeYear": 796,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
@@ -1256,7 +1256,7 @@
     "timeDay": 744,
     "timeWeek": 646,
     "timeMonth": 657,
-    "timeYear": 724,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -1274,7 +1274,7 @@
     "timeDay": 823,
     "timeWeek": 722,
     "timeMonth": 698,
-    "timeYear": 724,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -1346,7 +1346,7 @@
     "timeDay": 916,
     "timeWeek": 796,
     "timeMonth": 765,
-    "timeYear": 860,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -1364,7 +1364,7 @@
     "timeDay": 1134,
     "timeWeek": 891,
     "timeMonth": 815,
-    "timeYear": 865,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -1372,17 +1372,17 @@
     "url": "https://www.afghanbbq.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.afghanbbq.com.au.ico",
     "slug": "afghan-bbq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 677,
-    "timeWeek": 747,
-    "timeMonth": 737,
-    "timeYear": 719,
+    "time": 714,
+    "timeDay": 552,
+    "timeWeek": 732,
+    "timeMonth": 728,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "timeDay": 762,
     "timeWeek": 712,
     "timeMonth": 698,
-    "timeYear": 749,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -1472,7 +1472,7 @@
     "timeDay": 948,
     "timeWeek": 786,
     "timeMonth": 737,
-    "timeYear": 807,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -1490,7 +1490,7 @@
     "timeDay": 984,
     "timeWeek": 832,
     "timeMonth": 778,
-    "timeYear": 807,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -1526,7 +1526,7 @@
     "timeDay": 910,
     "timeWeek": 875,
     "timeMonth": 787,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   },
   {
@@ -1552,17 +1552,17 @@
     "url": "https://www.3broskebab.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.3broskebab.com.au.ico",
     "slug": "3-bros-kebab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 606,
-    "timeWeek": 508,
-    "timeMonth": 555,
-    "timeYear": 637,
+    "time": 640,
+    "timeDay": 513,
+    "timeWeek": 499,
+    "timeMonth": 548,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -1669,8 +1669,8 @@
     "time": 796,
     "timeDay": 1789,
     "timeWeek": 1438,
-    "timeMonth": 1701,
-    "timeYear": 796,
+    "timeMonth": 1705,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
@@ -1678,17 +1678,17 @@
     "url": "https://www.thehighwayeats.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehighwayeats.com.au.ico",
     "slug": "highway-eats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 484,
-    "timeWeek": 666,
-    "timeMonth": 666,
-    "timeYear": 701,
+    "time": 698,
+    "timeDay": 421,
+    "timeWeek": 654,
+    "timeMonth": 658,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   },
   {
@@ -1706,7 +1706,7 @@
     "timeDay": 385,
     "timeWeek": 290,
     "timeMonth": 267,
-    "timeYear": 593,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -1724,7 +1724,7 @@
     "timeDay": 812,
     "timeWeek": 1410,
     "timeMonth": 822,
-    "timeYear": 926,
+    "timeYear": 927,
     "dailyMinutesDown": {}
   },
   {
@@ -1742,7 +1742,7 @@
     "timeDay": 979,
     "timeWeek": 782,
     "timeMonth": 688,
-    "timeYear": 689,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -1778,7 +1778,7 @@
     "timeDay": 959,
     "timeWeek": 786,
     "timeMonth": 739,
-    "timeYear": 757,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   },
   {
@@ -1832,7 +1832,7 @@
     "timeDay": 789,
     "timeWeek": 612,
     "timeMonth": 608,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   }
 ]
