@@ -948,7 +948,7 @@
     "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 738,
-    "timeWeek": 538,
+    "timeWeek": 547,
     "timeMonth": 566,
     "timeYear": 679,
     "dailyMinutesDown": {}
@@ -1290,7 +1290,7 @@
     "uptimeYear": "100.00%",
     "time": 689,
     "timeDay": 677,
-    "timeWeek": 593,
+    "timeWeek": 619,
     "timeMonth": 633,
     "timeYear": 693,
     "dailyMinutesDown": {}
@@ -1380,7 +1380,7 @@
     "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 639,
-    "timeWeek": 536,
+    "timeWeek": 567,
     "timeMonth": 702,
     "timeYear": 714,
     "dailyMinutesDown": {}
@@ -1560,7 +1560,7 @@
     "uptimeYear": "100.00%",
     "time": 637,
     "timeDay": 624,
-    "timeWeek": 495,
+    "timeWeek": 499,
     "timeMonth": 531,
     "timeYear": 633,
     "dailyMinutesDown": {}
@@ -1670,7 +1670,7 @@
     "timeDay": 1745,
     "timeWeek": 1530,
     "timeMonth": 1688,
-    "timeYear": 816,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   },
   {
@@ -1678,17 +1678,17 @@
     "url": "https://www.thehighwayeats.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehighwayeats.com.au.ico",
     "slug": "highway-eats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
-    "timeDay": 741,
-    "timeWeek": 536,
-    "timeMonth": 652,
-    "timeYear": 697,
+    "timeDay": 482,
+    "timeWeek": 567,
+    "timeMonth": 647,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
