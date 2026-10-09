@@ -1,7 +1,7 @@
 url: https://www.amici.com.au
-status: up
-code: 200
-responseTime: 923
-lastUpdated: 2026-10-09T02:44:16.146Z
+status: down
+code: 500
+responseTime: 575
+lastUpdated: 2026-10-09T13:51:39.727Z
 startTime: 2025-07-24T04:57:27.913Z
 generator: Upptime <https://github.com/upptime/upptime>
