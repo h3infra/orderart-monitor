@@ -1,7 +1,7 @@
 url: https://www.thehighwayeats.com.au/
-status: up
-code: 200
-responseTime: 6255
-lastUpdated: 2026-10-25T20:07:48.502Z
+status: down
+code: 504
+responseTime: 95
+lastUpdated: 2026-10-26T00:45:43.110Z
 startTime: 2025-07-24T04:58:55.793Z
 generator: Upptime <https://github.com/upptime/upptime>
